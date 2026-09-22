@@ -1,0 +1,9 @@
+web3[tester]
+py-solc-x
+pqcrypto
+cryptography
+numpy
+pandas
+matplotlib
+torch
+torchvision

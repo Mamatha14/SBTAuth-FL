@@ -1,0 +1,16 @@
+Message,Field,Size_bytes,Size_bits
+M1: H_i -> FLS,SPID_i,32,256
+M1: H_i -> FLS,TokenID_i,32,256
+M1: H_i -> FLS,X_i,65,520
+M1: H_i -> FLS,N1,32,256
+M1: H_i -> FLS,M1,32,256
+M1: H_i -> FLS,sigma_i_MLDSA44,2420,19360
+M2: FLS -> H_i,DID_F,32,256
+M2: FLS -> H_i,TokenID_F,32,256
+M2: FLS -> H_i,Y_F,65,520
+M2: FLS -> H_i,N2,32,256
+M2: FLS -> H_i,M2,32,256
+M2: FLS -> H_i,sigma_F_MLDSA44,2420,19360
+M1: H_i -> FLS,TOTAL,2613,20904
+M2: FLS -> H_i,TOTAL,2613,20904
+Complete Authentication,TOTAL,5226,41808

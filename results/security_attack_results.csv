@@ -1,0 +1,7 @@
+Attack,Attempts,Blocked,Accepted,BlockingRate_percent
+Hospital Impersonation,50,50,0,100.0
+FLS Impersonation,50,50,0,100.0
+M1 Ephemeral-Key Tampering,50,50,0,100.0
+M2 Ephemeral-Key Tampering,50,50,0,100.0
+Replay Attack,50,50,0,100.0
+Invalid SBT TokenID,50,50,0,100.0
